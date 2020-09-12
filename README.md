@@ -4,7 +4,7 @@ I have created an Autoencoder model to classify the images of the Wild Cats. An 
 
 Using NearestNeighbor algorithm I have successfully retrieved similar images based on the eucledian distances of various wild cats as shown below:
 
-##PART I: Using Raw Images
+#PART I: Using Raw Images
 
 ##1) Lion: 
 
