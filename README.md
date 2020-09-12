@@ -28,16 +28,28 @@ Here there is a limitation of this model which is, the model does not classify b
 
 ## 1) Lion: 
 
-![header image](https://github.com/AniketRele/Autoencoders-Wild-Cat-Image-Classification-unsupervised/blob/master/lion.PNG)
+![header image](https://github.com/AniketRele/Autoencoders-Wild-Cat-Image-Classification-unsupervised-and-Image-Retrieval/blob/master/Images%20with%20edge/lion%20edge.PNG)
 
-## 2) Wolf: 
+## 2) Tiger: 
 
-![header image](https://github.com/AniketRele/Autoencoders-Wild-Cat-Image-Classification-unsupervised/blob/master/wolf.PNG)
+![header image](https://github.com/AniketRele/Autoencoders-Wild-Cat-Image-Classification-unsupervised-and-Image-Retrieval/blob/master/Images%20with%20edge/tiger%20edge.PNG)
 
 ## 3) Cheetah: 
 
-![header image](https://github.com/AniketRele/Autoencoders-Wild-Cat-Image-Classification-unsupervised/blob/master/cheetah.PNG)
+![header image](https://github.com/AniketRele/Autoencoders-Wild-Cat-Image-Classification-unsupervised-and-Image-Retrieval/blob/master/Images%20with%20edge/cheetah%20edge.PNG)
 
-## 4) White Tiger/Tiger: 
+## 4) Leopard: 
 
-![header image](https://github.com/AniketRele/Autoencoders-Wild-Cat-Image-Classification-unsupervised/blob/master/white_tiger.PNG)
+![header image](https://github.com/AniketRele/Autoencoders-Wild-Cat-Image-Classification-unsupervised-and-Image-Retrieval/blob/master/Images%20with%20edge/leopard%20edge.PNG)
+
+## 4) Fox: 
+
+![header image](https://github.com/AniketRele/Autoencoders-Wild-Cat-Image-Classification-unsupervised-and-Image-Retrieval/blob/master/Images%20with%20edge/fox%20edge.PNG)
+
+## 4) Wolf: 
+
+![header image](https://github.com/AniketRele/Autoencoders-Wild-Cat-Image-Classification-unsupervised-and-Image-Retrieval/blob/master/Images%20with%20edge/wolf%20edge.PNG)
+
+## 4) Lioness: 
+
+![header image](https://github.com/AniketRele/Autoencoders-Wild-Cat-Image-Classification-unsupervised-and-Image-Retrieval/blob/master/Images%20with%20edge/lioness%20edge.PNG)
