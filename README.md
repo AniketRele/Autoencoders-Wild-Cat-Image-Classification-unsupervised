@@ -8,19 +8,19 @@ Using NearestNeighbor algorithm I have successfully retrieved similar images bas
 
 ## 1) Lion: 
 
-![header image](https://github.com/AniketRele/Autoencoders-Wild-Cat-Image-Classification-unsupervised/blob/master/lion.PNG)
+![header image](https://github.com/AniketRele/Autoencoders-Wild-Cat-Image-Classification-unsupervised-and-Image-Retrieval/blob/master/Images%20without%20edge/lion.PNG)
 
 ## 2) Wolf: 
 
-![header image](https://github.com/AniketRele/Autoencoders-Wild-Cat-Image-Classification-unsupervised/blob/master/wolf.PNG)
+![header image](https://github.com/AniketRele/Autoencoders-Wild-Cat-Image-Classification-unsupervised-and-Image-Retrieval/blob/master/Images%20without%20edge/wolf.PNG)
 
 ## 3) Cheetah: 
 
-![header image](https://github.com/AniketRele/Autoencoders-Wild-Cat-Image-Classification-unsupervised/blob/master/cheetah.PNG)
+![header image](https://github.com/AniketRele/Autoencoders-Wild-Cat-Image-Classification-unsupervised-and-Image-Retrieval/blob/master/Images%20without%20edge/cheetah.PNG)
 
 ## 4) White Tiger/Tiger: 
 
-![header image](https://github.com/AniketRele/Autoencoders-Wild-Cat-Image-Classification-unsupervised/blob/master/white_tiger.PNG)
+![header image](https://github.com/AniketRele/Autoencoders-Wild-Cat-Image-Classification-unsupervised-and-Image-Retrieval/blob/master/Images%20without%20edge/white_tiger.PNG)
 
 Here there is a limitation of this model which is, the model does not classify between cheetahs and leopards properly as they both have spots and the difference is just of their body size. 
 
