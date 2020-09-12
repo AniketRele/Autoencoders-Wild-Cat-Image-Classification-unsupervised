@@ -2,7 +2,9 @@
 
 I have created an Autoencoder model to classify the images of the Wild Cats. An autoencoder is a type of artificial neural network used to learn efficient data codings in an unsupervised manner. Here I have created a basic model of autoencoder without adding up any noise to classify the images using Convolutional layers.
 
-Using NearestNeighbor algorithm I have successfully retrieved similar images based on the eucledian distances of various wild cats as shown below:
+Using NearestNeighbor algorithm I have successfully retrieved similar images based on the eucledian distances of various wild cats.
+
+Classifying with the help of edge detection gave better results than normal classification and the results are given below :
 
 ## PART I: Using Raw Images
 
