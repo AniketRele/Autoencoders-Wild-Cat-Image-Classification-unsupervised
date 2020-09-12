@@ -4,7 +4,7 @@ I have created an Autoencoder model to classify the images of the Wild Cats. An 
 
 Using NearestNeighbor algorithm I have successfully retrieved similar images based on the eucledian distances of various wild cats as shown below:
 
-1) Lion: 
+1) __Lion__: 
 
 ![header image](https://github.com/AniketRele/Autoencoders-Wild-Cat-Image-Classification-unsupervised/blob/master/lion.PNG)
 
