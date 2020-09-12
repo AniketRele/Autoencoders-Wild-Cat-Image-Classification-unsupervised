@@ -44,14 +44,14 @@ Here there is a limitation of this model which is, the model does not classify b
 
 ![header image](https://github.com/AniketRele/Autoencoders-Wild-Cat-Image-Classification-unsupervised-and-Image-Retrieval/blob/master/Images%20with%20edge/leopard%20edge.PNG)
 
-## 4) Fox: 
+## 5) Fox: 
 
 ![header image](https://github.com/AniketRele/Autoencoders-Wild-Cat-Image-Classification-unsupervised-and-Image-Retrieval/blob/master/Images%20with%20edge/fox%20edge.PNG)
 
-## 4) Wolf: 
+## 6) Wolf: 
 
 ![header image](https://github.com/AniketRele/Autoencoders-Wild-Cat-Image-Classification-unsupervised-and-Image-Retrieval/blob/master/Images%20with%20edge/wolf%20edge.PNG)
 
-## 4) Lioness: 
+## 7) Lioness: 
 
 ![header image](https://github.com/AniketRele/Autoencoders-Wild-Cat-Image-Classification-unsupervised-and-Image-Retrieval/blob/master/Images%20with%20edge/lioness%20edge.PNG)
